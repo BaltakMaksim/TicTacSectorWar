@@ -1,0 +1,39 @@
+# Binaries and Intermediate files (САМОЕ ВАЖНОЕ - не коммить!)
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+
+# Visual Studio / Rider files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Windows junk
+.DS_Store
+Thumbs.db
+
+# UE specific
+*.pdb
+*.exp
+*.lib
+*.idb
+*.ilk
+*.obj
+*.o
+*.res
+*.rc
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
